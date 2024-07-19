@@ -1,3 +1,5 @@
+//Backend/controllers/postController.js
+
 const Post = require('../models/postModel');
 
 const getPosts = async (req, res) => {
